@@ -15,7 +15,7 @@ The purpose is to get a high-level overview of Ruby on Rails programming(and web
 
 ## Live Demo
 
-[Live Demo Link](https://pure-wildwood-19632.herokuapp.com/)
+[Live Demo Link](https://whispering-falls-40634.herokuapp.com/)
 
 
 ## Getting Started
